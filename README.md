@@ -28,6 +28,19 @@ In today's rapidly changing financial landscape, effective personal finance mana
 - **Shashmithayoganarajah**
 - **YeswanthNarayanan**
 
+### Technologies Used
+
+- torch	
+- transformers	
+- accelerate	
+- bitsandbytes	
+- peft	
+- trl	
+- gradio	
+- bs4	
+- uuid	
+- chromadb
+
 ### Getting Started
 
 To run Wealth Wiser locally:
